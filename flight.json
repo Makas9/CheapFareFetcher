@@ -1,0 +1,18 @@
+{
+  "Option1":[{
+    "CHEAP_FLIGHT_BASE_URL": "https://www.trip.com/flights/london-to-new-york/tickets-lon-nyc/",
+    "CHEAP_FLIGHT_FROM": "London (LHR)",
+    "CHEAP_FLIGHT_TO": "New York (JFK)",
+    "CHEAP_FLIGHT_FROM_AIRPORT": "lhr",
+    "CHEAP_FLIGHT_TO_AIRPORT": "jfk",
+    "CHEAP_FLIGHT_DATE_FROM": "2021-08-10",
+    "CHEAP_FLIGHT_DATE_TO": "2021-08-25",
+    "CHEAP_FLIGHT_FLEXIBLE": 1,
+    "CHEAP_FLIGHT_MIN_LENGTH": 7,
+    "CHEAP_FLIGHT_MAX_LENGTH": 14,
+    "CHEAP_FLIGHT_PEOPLE": 2,
+    "CHEAP_FLIGHT_PRICE": 1500,
+    "MAX_SEARCH_PER_RUN": 0,
+    "SECONDS_BETWEEN_SEARCHES": 300
+  }]
+}
